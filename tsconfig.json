@@ -1,4 +1,5 @@
-cat > tsconfig.json <<'EOF'
+# 1) Replace corrupted tsconfig.json with valid JSON
+cat > tsconfig.json <<'JSON'
 {
   "compilerOptions": {
     "target": "ES2022",
@@ -19,4 +20,22 @@ cat > tsconfig.json <<'EOF'
   "include": ["src", "env.d.ts", "vite.config.ts"],
   "exclude": ["node_modules", "dist"]
 }
-EOF
+JSON
+
+# 2) Add netlify.toml so Netlify publishes the correct folder (dist)
+cat > netlify.toml <<'TOML'
+[build]
+  command = "npm run build"
+  publish = "dist"
+TOML
+
+# 3) Commit & push
+git add tsconfig.json netlify.toml
+git commit -m "fix: replace corrupted tsconfig.json and add netlify.toml (publish dist)"
+git push origin main
+
+# 4) (Optional) Validate and build locally
+node -e "JSON.parse(require('fs').readFileSync('tsconfig.json','utf8')); console.log('tsconfig.json OK')"
+npm install
+npm run build
+ls -la dist
