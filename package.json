@@ -1,22 +1,5 @@
-{
-  "name": "aiworldnext",
-  "version": "1.0.0",
-  "private": true,
-  "engines": {
-    "node": ">=18"
-  },
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build && next export",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "next": "14.2.5",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
-  },
-  "devDependencies": {
-    "eslint": "^8.56.0"
-  }
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
 }
