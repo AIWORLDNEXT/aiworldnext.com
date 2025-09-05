@@ -1,3 +1,27 @@
-git rm tsconfig.json
-git commit -m "chore: remove tsconfig (not using TypeScript)"
+# overwrite tsconfig.json with a clean config for Vite + React (App)
+cat > tsconfig.json <<'EOF'
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["DOM", "ES2022"],
+    "jsx": "react-jsx",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": false,
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "types": ["vite/client"]
+  },
+  "include": ["src", "env.d.ts", "vite.config.ts"],
+  "exclude": ["node_modules", "dist"]
+}
+EOF
+
+git add tsconfig.json
+git commit -m "fix: replace corrupted tsconfig.json with valid Vite + React TS config"
 git push origin main
