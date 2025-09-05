@@ -1,4 +1,3 @@
-# overwrite tsconfig.json with a clean config for Vite + React (App)
 cat > tsconfig.json <<'EOF'
 {
   "compilerOptions": {
@@ -21,7 +20,3 @@ cat > tsconfig.json <<'EOF'
   "exclude": ["node_modules", "dist"]
 }
 EOF
-
-git add tsconfig.json
-git commit -m "fix: replace corrupted tsconfig.json with valid Vite + React TS config"
-git push origin main
