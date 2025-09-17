@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "title": "AI News #1: Startup raises funding",
+    "description": "Short summary for news item 1. This explains why the update matters.",
+    "date": "2024-01-15",
+    "source": "Bloomberg",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,1",
+    "tags": [
+      "MLOps",
+      "Cloud"
+    ],
+    "link": "https://example.com/news/1"
+  },
+  {
+    "id": 2,
+    "title": "AI News #2: Startup raises funding",
+    "description": "Short summary for news item 2. This explains why the update matters.",
+    "date": "2025-07-22",
+    "source": "Reuters",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,2",
+    "tags": [
+      "Computer Vision",
+      "MLOps"
+    ],
+    "link": "https://example.com/news/2"
+  },
+  {
+    "id": 3,
+    "title": "AI News #3: Regulation update",
+    "description": "Short summary for news item 3. This explains why the update matters.",
+    "date": "2025-06-08",
+    "source": "The Verge",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,3",
+    "tags": [
+      "Robotics",
+      "ML"
+    ],
+    "link": "https://example.com/news/3"
+  },
+  {
+    "id": 4,
+    "title": "AI News #4: Breakthrough in model efficiency",
+    "description": "Short summary for news item 4. This explains why the update matters.",
+    "date": "2025-05-14",
+    "source": "Bloomberg",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,4",
+    "tags": [
+      "Vision",
+      "Ethics"
+    ],
+    "link": "https://example.com/news/4"
+  },
+  {
+    "id": 5,
+    "title": "AI News #5: Regulation update",
+    "description": "Short summary for news item 5. This explains why the update matters.",
+    "date": "2024-06-25",
+    "source": "Reuters",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,5",
+    "tags": [
+      "Edge",
+      "ML"
+    ],
+    "link": "https://example.com/news/5"
+  },
+  {
+    "id": 6,
+    "title": "AI News #6: Breakthrough in model efficiency",
+    "description": "Short summary for news item 6. This explains why the update matters.",
+    "date": "2025-03-12",
+    "source": "TechCrunch",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,6",
+    "tags": [
+      "Research",
+      "MLOps"
+    ],
+    "link": "https://example.com/news/6"
+  },
+  {
+    "id": 7,
+    "title": "AI News #7: Regulation update",
+    "description": "Short summary for news item 7. This explains why the update matters.",
+    "date": "2025-05-18",
+    "source": "MIT Tech Review",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,7",
+    "tags": [
+      "Cloud",
+      "Robotics"
+    ],
+    "link": "https://example.com/news/7"
+  },
+  {
+    "id": 8,
+    "title": "AI News #8: Breakthrough in model efficiency",
+    "description": "Short summary for news item 8. This explains why the update matters.",
+    "date": "2024-12-30",
+    "source": "Ars Technica",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,8",
+    "tags": [
+      "AI",
+      "Vision"
+    ],
+    "link": "https://example.com/news/8"
+  },
+  {
+    "id": 9,
+    "title": "AI News #9: Breakthrough in model efficiency",
+    "description": "Short summary for news item 9. This explains why the update matters.",
+    "date": "2024-09-14",
+    "source": "TechCrunch",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,9",
+    "tags": [
+      "Product",
+      "Ethics"
+    ],
+    "link": "https://example.com/news/9"
+  },
+  {
+    "id": 10,
+    "title": "AI News #10: New dataset released",
+    "description": "Short summary for news item 10. This explains why the update matters.",
+    "date": "2025-08-11",
+    "source": "Ars Technica",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,10",
+    "tags": [
+      "Research",
+      "Cloud"
+    ],
+    "link": "https://example.com/news/10"
+  },
+  {
+    "id": 11,
+    "title": "AI News #11: Breakthrough in model efficiency",
+    "description": "Short summary for news item 11. This explains why the update matters.",
+    "date": "2025-08-20",
+    "source": "MIT Tech Review",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,11",
+    "tags": [
+      "Startups",
+      "Vision"
+    ],
+    "link": "https://example.com/news/11"
+  },
+  {
+    "id": 12,
+    "title": "AI News #12: Startup raises funding",
+    "description": "Short summary for news item 12. This explains why the update matters.",
+    "date": "2024-11-11",
+    "source": "Reuters",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,12",
+    "tags": [
+      "Product",
+      "Research"
+    ],
+    "link": "https://example.com/news/12"
+  },
+  {
+    "id": 13,
+    "title": "AI News #13: Breakthrough in model efficiency",
+    "description": "Short summary for news item 13. This explains why the update matters.",
+    "date": "2024-08-01",
+    "source": "Ars Technica",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,13",
+    "tags": [
+      "Computer Vision",
+      "Ethics"
+    ],
+    "link": "https://example.com/news/13"
+  },
+  {
+    "id": 14,
+    "title": "AI News #14: New dataset released",
+    "description": "Short summary for news item 14. This explains why the update matters.",
+    "date": "2024-09-08",
+    "source": "Wired",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,14",
+    "tags": [
+      "Robotics",
+      "ML"
+    ],
+    "link": "https://example.com/news/14"
+  },
+  {
+    "id": 15,
+    "title": "AI News #15: Breakthrough in model efficiency",
+    "description": "Short summary for news item 15. This explains why the update matters.",
+    "date": "2025-01-04",
+    "source": "Reuters",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,15",
+    "tags": [
+      "Vision",
+      "AI"
+    ],
+    "link": "https://example.com/news/15"
+  },
+  {
+    "id": 16,
+    "title": "AI News #16: Breakthrough in model efficiency",
+    "description": "Short summary for news item 16. This explains why the update matters.",
+    "date": "2025-03-18",
+    "source": "MIT Tech Review",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,16",
+    "tags": [
+      "Computer Vision",
+      "Cloud"
+    ],
+    "link": "https://example.com/news/16"
+  },
+  {
+    "id": 17,
+    "title": "AI News #17: Startup raises funding",
+    "description": "Short summary for news item 17. This explains why the update matters.",
+    "date": "2025-07-17",
+    "source": "The Verge",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,17",
+    "tags": [
+      "ML",
+      "MLOps"
+    ],
+    "link": "https://example.com/news/17"
+  },
+  {
+    "id": 18,
+    "title": "AI News #18: New dataset released",
+    "description": "Short summary for news item 18. This explains why the update matters.",
+    "date": "2024-09-06",
+    "source": "Reuters",
+    "image": "https://source.unsplash.com/800x600/?ai,technology,18",
+    "tags": [
+      "ML",
+      "NLP"
+    ],
+    "link": "https://example.com/news/18"
+  }
+]

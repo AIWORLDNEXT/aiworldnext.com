@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "title": "Expert Blog #1: Responsible AI",
+    "excerpt": "An actionable guide on dataset auditing.",
+    "date": "2025-08-13",
+    "author": "Chen Wang",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,1",
+    "tags": [
+      "Cloud",
+      "AI"
+    ],
+    "link": "/blog/1"
+  },
+  {
+    "id": 2,
+    "title": "Expert Blog #2: Interpretability methods",
+    "excerpt": "An actionable guide on bias mitigation.",
+    "date": "2024-04-04",
+    "author": "Samir Joshi",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,2",
+    "tags": [
+      "Computer Vision",
+      "Cloud"
+    ],
+    "link": "/blog/2"
+  },
+  {
+    "id": 3,
+    "title": "Expert Blog #3: Responsible AI",
+    "excerpt": "An actionable guide on dataset auditing.",
+    "date": "2024-09-11",
+    "author": "James Lee",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,3",
+    "tags": [
+      "Cloud",
+      "Research"
+    ],
+    "link": "/blog/3"
+  },
+  {
+    "id": 4,
+    "title": "Expert Blog #4: Practical MLOps",
+    "excerpt": "An actionable guide on dataset auditing.",
+    "date": "2024-12-31",
+    "author": "Alice Kumar",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,4",
+    "tags": [
+      "ML",
+      "MLOps"
+    ],
+    "link": "/blog/4"
+  },
+  {
+    "id": 5,
+    "title": "Expert Blog #5: Practical MLOps",
+    "excerpt": "An actionable guide on dataset auditing.",
+    "date": "2025-08-04",
+    "author": "Maya Patel",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,5",
+    "tags": [
+      "Research",
+      "Startups"
+    ],
+    "link": "/blog/5"
+  },
+  {
+    "id": 6,
+    "title": "Expert Blog #6: Scaling ML teams",
+    "excerpt": "An actionable guide on model monitoring.",
+    "date": "2024-05-03",
+    "author": "Chen Wang",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,6",
+    "tags": [
+      "Startups",
+      "Computer Vision"
+    ],
+    "link": "/blog/6"
+  },
+  {
+    "id": 7,
+    "title": "Expert Blog #7: Practical MLOps",
+    "excerpt": "An actionable guide on bias mitigation.",
+    "date": "2025-09-24",
+    "author": "Chen Wang",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,7",
+    "tags": [
+      "ML",
+      "Research"
+    ],
+    "link": "/blog/7"
+  },
+  {
+    "id": 8,
+    "title": "Expert Blog #8: Scaling ML teams",
+    "excerpt": "An actionable guide on bias mitigation.",
+    "date": "2025-05-03",
+    "author": "Ravi Singh",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,8",
+    "tags": [
+      "NLP",
+      "Cloud"
+    ],
+    "link": "/blog/8"
+  },
+  {
+    "id": 9,
+    "title": "Expert Blog #9: Scaling ML teams",
+    "excerpt": "An actionable guide on bias mitigation.",
+    "date": "2024-08-13",
+    "author": "Samir Joshi",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,9",
+    "tags": [
+      "Edge",
+      "AI"
+    ],
+    "link": "/blog/9"
+  },
+  {
+    "id": 10,
+    "title": "Expert Blog #10: Scaling ML teams",
+    "excerpt": "An actionable guide on dataset auditing.",
+    "date": "2024-12-24",
+    "author": "Chen Wang",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,10",
+    "tags": [
+      "Startups",
+      "Research"
+    ],
+    "link": "/blog/10"
+  },
+  {
+    "id": 11,
+    "title": "Expert Blog #11: Practical MLOps",
+    "excerpt": "An actionable guide on model monitoring.",
+    "date": "2024-01-29",
+    "author": "Olivia Brown",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,11",
+    "tags": [
+      "Product",
+      "Research"
+    ],
+    "link": "/blog/11"
+  },
+  {
+    "id": 12,
+    "title": "Expert Blog #12: Scaling ML teams",
+    "excerpt": "An actionable guide on model monitoring.",
+    "date": "2025-07-10",
+    "author": "Chen Wang",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,12",
+    "tags": [
+      "Ethics",
+      "NLP"
+    ],
+    "link": "/blog/12"
+  },
+  {
+    "id": 13,
+    "title": "Expert Blog #13: Responsible AI",
+    "excerpt": "An actionable guide on bias mitigation.",
+    "date": "2025-07-22",
+    "author": "Chen Wang",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,13",
+    "tags": [
+      "Cloud",
+      "Research"
+    ],
+    "link": "/blog/13"
+  },
+  {
+    "id": 14,
+    "title": "Expert Blog #14: Responsible AI",
+    "excerpt": "An actionable guide on dataset auditing.",
+    "date": "2024-11-19",
+    "author": "Olivia Brown",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,14",
+    "tags": [
+      "Cloud",
+      "Edge"
+    ],
+    "link": "/blog/14"
+  },
+  {
+    "id": 15,
+    "title": "Expert Blog #15: Scaling ML teams",
+    "excerpt": "An actionable guide on bias mitigation.",
+    "date": "2024-08-15",
+    "author": "Maya Patel",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,15",
+    "tags": [
+      "Product",
+      "AI"
+    ],
+    "link": "/blog/15"
+  },
+  {
+    "id": 16,
+    "title": "Expert Blog #16: Interpretability methods",
+    "excerpt": "An actionable guide on bias mitigation.",
+    "date": "2024-09-22",
+    "author": "James Lee",
+    "image": "https://source.unsplash.com/800x600/?coding,ai,blog,16",
+    "tags": [
+      "Computer Vision",
+      "NLP"
+    ],
+    "link": "/blog/16"
+  }
+]

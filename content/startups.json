@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "name": "Dextron",
+    "description": "Early-stage startup focused on applying AI to real-world problems.",
+    "founded": "2020",
+    "stage": "Series B",
+    "image": "https://source.unsplash.com/800x600/?startup,office,1",
+    "tags": [
+      "Research",
+      "Computer Vision"
+    ],
+    "link": "https://example.com/startups/1"
+  },
+  {
+    "id": 2,
+    "name": "Dextron",
+    "description": "Early-stage startup focused on applying AI to real-world problems.",
+    "founded": "2018",
+    "stage": "Series B",
+    "image": "https://source.unsplash.com/800x600/?startup,office,2",
+    "tags": [
+      "MLOps",
+      "NLP"
+    ],
+    "link": "https://example.com/startups/2"
+  },
+  {
+    "id": 3,
+    "name": "Aethon",
+    "description": "Early-stage startup focused on applying AI to real-world problems.",
+    "founded": "2020",
+    "stage": "Series B",
+    "image": "https://source.unsplash.com/800x600/?startup,office,3",
+    "tags": [
+      "AI",
+      "Ethics"
+    ],
+    "link": "https://example.com/startups/3"
+  },
+  {
+    "id": 4,
+    "name": "Epsilon Labs",
+    "description": "Early-stage startup focused on applying AI to real-world problems.",
+    "founded": "2020",
+    "stage": "Growth",
+    "image": "https://source.unsplash.com/800x600/?startup,office,4",
+    "tags": [
+      "Robotics",
+      "Research"
+    ],
+    "link": "https://example.com/startups/4"
+  },
+  {
+    "id": 5,
+    "name": "CortiAI",
+    "description": "Early-stage startup focused on applying AI to real-world problems.",
+    "founded": "2019",
+    "stage": "Series B",
+    "image": "https://source.unsplash.com/800x600/?startup,office,5",
+    "tags": [
+      "Robotics",
+      "Ethics"
+    ],
+    "link": "https://example.com/startups/5"
+  },
+  {
+    "id": 6,
+    "name": "Flux Robotics",
+    "description": "Early-stage startup focused on applying AI to real-world problems.",
+    "founded": "2016",
+    "stage": "Growth",
+    "image": "https://source.unsplash.com/800x600/?startup,office,6",
+    "tags": [
+      "MLOps",
+      "ML"
+    ],
+    "link": "https://example.com/startups/6"
+  },
+  {
+    "id": 7,
+    "name": "BlueBot",
+    "description": "Early-stage startup focused on applying AI to real-world problems.",
+    "founded": "2024",
+    "stage": "Growth",
+    "image": "https://source.unsplash.com/800x600/?startup,office,7",
+    "tags": [
+      "Cloud",
+      "AI"
+    ],
+    "link": "https://example.com/startups/7"
+  },
+  {
+    "id": 8,
+    "name": "BlueBot",
+    "description": "Early-stage startup focused on applying AI to real-world problems.",
+    "founded": "2024",
+    "stage": "Growth",
+    "image": "https://source.unsplash.com/800x600/?startup,office,8",
+    "tags": [
+      "NLP",
+      "Edge"
+    ],
+    "link": "https://example.com/startups/8"
+  },
+  {
+    "id": 9,
+    "name": "BlueBot",
+    "description": "Early-stage startup focused on applying AI to real-world problems.",
+    "founded": "2023",
+    "stage": "Series A",
+    "image": "https://source.unsplash.com/800x600/?startup,office,9",
+    "tags": [
+      "Vision",
+      "Edge"
+    ],
+    "link": "https://example.com/startups/9"
+  },
+  {
+    "id": 10,
+    "name": "Flux Robotics",
+    "description": "Early-stage startup focused on applying AI to real-world problems.",
+    "founded": "2023",
+    "stage": "Series B",
+    "image": "https://source.unsplash.com/800x600/?startup,office,10",
+    "tags": [
+      "Ethics",
+      "AI"
+    ],
+    "link": "https://example.com/startups/10"
+  },
+  {
+    "id": 11,
+    "name": "CortiAI",
+    "description": "Early-stage startup focused on applying AI to real-world problems.",
+    "founded": "2015",
+    "stage": "Series B",
+    "image": "https://source.unsplash.com/800x600/?startup,office,11",
+    "tags": [
+      "MLOps",
+      "NLP"
+    ],
+    "link": "https://example.com/startups/11"
+  },
+  {
+    "id": 12,
+    "name": "Dextron",
+    "description": "Early-stage startup focused on applying AI to real-world problems.",
+    "founded": "2021",
+    "stage": "Seed",
+    "image": "https://source.unsplash.com/800x600/?startup,office,12",
+    "tags": [
+      "Computer Vision",
+      "MLOps"
+    ],
+    "link": "https://example.com/startups/12"
+  },
+  {
+    "id": 13,
+    "name": "Aethon",
+    "description": "Early-stage startup focused on applying AI to real-world problems.",
+    "founded": "2016",
+    "stage": "Seed",
+    "image": "https://source.unsplash.com/800x600/?startup,office,13",
+    "tags": [
+      "Robotics",
+      "Ethics"
+    ],
+    "link": "https://example.com/startups/13"
+  },
+  {
+    "id": 14,
+    "name": "Dextron",
+    "description": "Early-stage startup focused on applying AI to real-world problems.",
+    "founded": "2024",
+    "stage": "Growth",
+    "image": "https://source.unsplash.com/800x600/?startup,office,14",
+    "tags": [
+      "Robotics",
+      "ML"
+    ],
+    "link": "https://example.com/startups/14"
+  },
+  {
+    "id": 15,
+    "name": "Flux Robotics",
+    "description": "Early-stage startup focused on applying AI to real-world problems.",
+    "founded": "2015",
+    "stage": "Growth",
+    "image": "https://source.unsplash.com/800x600/?startup,office,15",
+    "tags": [
+      "Cloud",
+      "MLOps"
+    ],
+    "link": "https://example.com/startups/15"
+  }
+]
