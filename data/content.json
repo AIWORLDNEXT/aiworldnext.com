@@ -1,0 +1,927 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "OpenAI Launches GPT-5 With 94.6% Math Benchmark Score",
+      "excerpt": "GPT-5 leads with 94.6% AIME 2025 math score, 88.4% on GPQA tests, and Intelligence Index of 69. Features 'team of experts' architecture for deep reasoning.",
+      "category": "AI Models",
+      "date": "2025-08-05",
+      "image": "/placeholder.svg?height=600&width=900"
+    },
+    {
+      "id": 2,
+      "title": "Tesla Optimus v3 Targets 100K Monthly Production",
+      "excerpt": "Tesla unveils Optimus v3 with hyper-realistic hands featuring 22 degrees of freedom, double that of v2. Streamlined design with concealed mechanics.",
+      "category": "Robotics",
+      "date": "2025-09-07",
+      "image": "/placeholder.svg?height=600&width=900"
+    },
+    {
+      "id": 3,
+      "title": "Anthropic Claude Opus 4.1 Achieves 74.5% SWE-bench Score",
+      "excerpt": "Claude Opus 4.1 offers competitive coding abilities with most recent knowledge cutoff of July 2025 among competitors.",
+      "category": "AI Models",
+      "date": "2025-08-05",
+      "image": "/placeholder.svg?height=600&width=900"
+    },
+    {
+      "id": 4,
+      "title": "Google Gemini 2.5 Pro Features 1M Token Context",
+      "excerpt": "Gemini 2.5 Pro analyzes up to 1,500 pages with native multimodality for text, images, audio, and video simultaneously.",
+      "category": "AI Research",
+      "date": "2025-03-28",
+      "image": "/placeholder.svg?height=600&width=900"
+    },
+    {
+      "id": 5,
+      "title": "Boston Dynamics Electric Atlas Shows Dynamic Movement",
+      "excerpt": "Electric Atlas demonstrates high-performance movement with exceptional balance and agility using advanced electric actuators.",
+      "category": "Robotics",
+      "date": "2025-08-18",
+      "image": "/placeholder.svg?height=600&width=900"
+    },
+    {
+      "id": 6,
+      "title": "Figure AI Demonstrates Humanoid Robot Folding Laundry",
+      "excerpt": "Figure AI's humanoid robot successfully demonstrates complex manipulation tasks including folding laundry autonomously.",
+      "category": "Robotics",
+      "date": "2025-08-15",
+      "image": "/placeholder.svg?height=600&width=900"
+    },
+    {
+      "id": 7,
+      "title": "xAI Reaches $200B Valuation With $10B Funding",
+      "excerpt": "Elon Musk's xAI secured $10B at $200B valuation using hybrid debt-equity structure, achieving 20x pricing power.",
+      "category": "Funding",
+      "date": "2025-09-15",
+      "image": "/placeholder.svg?height=600&width=900"
+    },
+    {
+      "id": 8,
+      "title": "OpenAI Secures Record $140B Total 2025 Funding",
+      "excerpt": "OpenAI raised $40B at $300B valuation, with Nvidia planning $100B investment for AI infrastructure.",
+      "category": "Funding",
+      "date": "2025-09-22",
+      "image": "/placeholder.svg?height=600&width=900"
+    },
+    {
+      "id": 9,
+      "title": "China Hosts First Humanoid Robot Games",
+      "excerpt": "China launches inaugural Humanoid Robot Games showcasing latest advances in bipedal robotics and AI control.",
+      "category": "Events",
+      "date": "2025-08-20",
+      "image": "/placeholder.svg?height=600&width=900"
+    },
+    {
+      "id": 10,
+      "title": "Unitree G1 and Agility Digit Lead Humanoid Market",
+      "excerpt": "Unitree Robotics' G1 and Agility Robotics' Digit emerge as leading commercial humanoid platforms.",
+      "category": "Robotics",
+      "date": "2025-08-10",
+      "image": "/placeholder.svg?height=600&width=900"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "GPT-5 vs Claude Opus 4.1: The 2025 AI Showdown",
+      "excerpt": "Comprehensive comparison of the latest flagship models from OpenAI and Anthropic, analyzing benchmarks, capabilities, and real-world performance.",
+      "category": "AI Models",
+      "date": "2025-08-10",
+      "author": "Dr. Sarah Chen",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 2,
+      "title": "How Tesla Optimus v3 Will Transform Manufacturing",
+      "excerpt": "Deep dive into Tesla's ambitious 100K monthly production target and what it means for industrial automation.",
+      "category": "Robotics",
+      "date": "2025-09-10",
+      "author": "Michael Torres",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 3,
+      "title": "The Rise of Multimodal AI: Gemini 2.5 Pro Analysis",
+      "excerpt": "Exploring Google's breakthrough in native multimodality and its 1M token context window capabilities.",
+      "category": "Technology",
+      "date": "2025-04-05",
+      "author": "Prof. Emily Rodriguez",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 4,
+      "title": "AI Unicorns: The $183B Anthropic Valuation Story",
+      "excerpt": "How Anthropic nearly tripled its valuation in 6 months and what it means for the AI startup ecosystem.",
+      "category": "Business",
+      "date": "2025-09-20",
+      "author": "James Liu",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 5,
+      "title": "Building with ChatGPT: Best Practices for 2025",
+      "excerpt": "Updated guide for developers leveraging ChatGPT's latest features including multimodal capabilities and extended context.",
+      "category": "Development",
+      "date": "2025-08-25",
+      "author": "Alexandra Kim",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 6,
+      "title": "Humanoid Robots: From Sci-Fi to Reality in 2025",
+      "excerpt": "Comprehensive overview of the humanoid robotics landscape including Tesla, Figure AI, Boston Dynamics, and emerging players.",
+      "category": "Robotics",
+      "date": "2025-08-30",
+      "author": "Dr. Robert Zhang",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 7,
+      "title": "Midjourney vs DALL-E 3: Image Generation Showdown",
+      "excerpt": "Detailed comparison of leading AI image generation tools with examples and use case recommendations.",
+      "category": "Creative AI",
+      "date": "2025-08-20",
+      "author": "Lisa Park",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 8,
+      "title": "The AI Safety Debate: Insights from 2025",
+      "excerpt": "Current state of AI alignment research and the ongoing debate about existential risks.",
+      "category": "Safety",
+      "date": "2025-08-15",
+      "author": "Dr. Marcus Johnson",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 9,
+      "title": "Runway Gen-3: The Future of AI Video Creation",
+      "excerpt": "Exploring Runway's latest video generation model and its implications for content creators.",
+      "category": "Video AI",
+      "date": "2025-08-12",
+      "author": "Nina Patel",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 10,
+      "title": "ElevenLabs Voice AI: Revolutionizing Audio Content",
+      "excerpt": "How ElevenLabs is transforming podcasting, audiobooks, and voice-over production with AI.",
+      "category": "Voice AI",
+      "date": "2025-08-08",
+      "author": "David Kumar",
+      "image": "/placeholder.svg?height=400&width=600"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Senior AI Research Scientist",
+      "company": "OpenAI",
+      "location": "San Francisco, CA",
+      "type": "Research",
+      "salary": "$200,000 - $350,000",
+      "description": "Work on GPT-5 and next-generation AI models. Help shape the future of artificial general intelligence.",
+      "image": "/placeholder.svg?height=300&width=400"
+    },
+    {
+      "id": 2,
+      "title": "Machine Learning Engineer - Claude",
+      "company": "Anthropic",
+      "location": "San Francisco, CA",
+      "type": "Engineering",
+      "salary": "$180,000 - $280,000",
+      "description": "Build and scale Claude Opus 4.1 infrastructure. Focus on AI safety and alignment.",
+      "image": "/placeholder.svg?height=300&width=400"
+    },
+    {
+      "id": 3,
+      "title": "Robotics Software Engineer - Optimus",
+      "company": "Tesla",
+      "location": "Palo Alto, CA",
+      "type": "Robotics",
+      "salary": "$160,000 - $220,000",
+      "description": "Develop software for Optimus v3 humanoid robot. Work on vision, manipulation, and locomotion.",
+      "image": "/placeholder.svg?height=300&width=400"
+    },
+    {
+      "id": 4,
+      "title": "AI Product Manager - Gemini",
+      "company": "Google DeepMind",
+      "location": "London, UK",
+      "type": "Product",
+      "salary": "£110,000 - £160,000",
+      "description": "Lead product strategy for Gemini 2.5 Pro. Define multimodal AI features.",
+      "image": "/placeholder.svg?height=300&width=400"
+    },
+    {
+      "id": 5,
+      "title": "Computer Vision Engineer",
+      "company": "Boston Dynamics",
+      "location": "Waltham, MA",
+      "type": "Computer Vision",
+      "salary": "$150,000 - $200,000",
+      "description": "Build vision systems for Electric Atlas and Spot robots. Enable autonomous navigation.",
+      "image": "/placeholder.svg?height=300&width=400"
+    },
+    {
+      "id": 6,
+      "title": "Humanoid Robotics Engineer",
+      "company": "Figure AI",
+      "location": "Sunnyvale, CA",
+      "type": "Robotics",
+      "salary": "$170,000 - $240,000",
+      "description": "Design and implement manipulation algorithms for general-purpose humanoid robots.",
+      "image": "/placeholder.svg?height=300&width=400"
+    },
+    {
+      "id": 7,
+      "title": "AI Infrastructure Engineer",
+      "company": "xAI",
+      "location": "San Francisco, CA",
+      "type": "Infrastructure",
+      "salary": "$190,000 - $270,000",
+      "description": "Build scalable infrastructure for Grok AI models. Work with cutting-edge GPU clusters.",
+      "image": "/placeholder.svg?height=300&width=400"
+    },
+    {
+      "id": 8,
+      "title": "NLP Research Scientist",
+      "company": "Cohere",
+      "location": "Toronto, Canada",
+      "type": "Research",
+      "salary": "CAD $160,000 - $230,000",
+      "description": "Research and develop enterprise-focused language models. Publish at top conferences.",
+      "image": "/placeholder.svg?height=300&width=400"
+    },
+    {
+      "id": 9,
+      "title": "AI Safety Researcher",
+      "company": "Anthropic",
+      "location": "Remote",
+      "type": "Research",
+      "salary": "$175,000 - $260,000",
+      "description": "Research AI alignment and safety. Develop techniques for reliable AI systems.",
+      "image": "/placeholder.svg?height=300&width=400"
+    },
+    {
+      "id": 10,
+      "title": "Robotics Perception Engineer",
+      "company": "Agility Robotics",
+      "location": "Albany, OR",
+      "type": "Robotics",
+      "salary": "$140,000 - $190,000",
+      "description": "Develop perception systems for Digit humanoid robot in warehouse environments.",
+      "image": "/placeholder.svg?height=300&width=400"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "ChatGPT Plus (GPT-5)",
+      "description": "Access to GPT-5 with 94.6% math benchmark, advanced reasoning, and multimodal capabilities. Priority access and faster responses.",
+      "company": "OpenAI",
+      "price": "$20/month",
+      "category": "AI Assistant",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 2,
+      "name": "Claude Opus 4.1 Pro",
+      "description": "Advanced coding assistant with 74.5% SWE-bench score. Most recent knowledge cutoff and enhanced safety features.",
+      "company": "Anthropic",
+      "price": "$20/month",
+      "category": "AI Assistant",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 3,
+      "name": "Midjourney V7",
+      "description": "State-of-the-art AI image generation with photorealistic quality and advanced style control.",
+      "company": "Midjourney",
+      "price": "$30/month",
+      "category": "Creative AI",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 4,
+      "name": "Runway Gen-3 Alpha",
+      "description": "Professional AI video generation and editing platform. Create cinematic footage from text prompts.",
+      "company": "Runway",
+      "price": "$35/month",
+      "category": "Video AI",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 5,
+      "name": "ElevenLabs Professional",
+      "description": "Realistic AI voice synthesis and cloning. Create professional voice-overs in 29 languages.",
+      "company": "ElevenLabs",
+      "price": "$22/month",
+      "category": "Voice AI",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 6,
+      "name": "GitHub Copilot X",
+      "description": "AI-powered coding assistant with GPT-5 integration. Write, debug, and optimize code faster.",
+      "company": "GitHub",
+      "price": "$10/month",
+      "category": "Development",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 7,
+      "name": "Perplexity Pro",
+      "description": "AI-powered search engine with real-time information and cited sources. GPT-5 and Claude integration.",
+      "company": "Perplexity",
+      "price": "$20/month",
+      "category": "Search",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 8,
+      "name": "Synthesia Enterprise",
+      "description": "Create professional AI videos with digital avatars. 140+ languages and custom avatar creation.",
+      "company": "Synthesia",
+      "price": "Custom",
+      "category": "Video AI",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 9,
+      "name": "Jasper AI",
+      "description": "AI content creation platform for marketing teams. Generate blog posts, ads, and social media content.",
+      "company": "Jasper",
+      "price": "$49/month",
+      "category": "Content",
+      "image": "/placeholder.svg?height=400&width=600"
+    },
+    {
+      "id": 10,
+      "name": "Notion AI",
+      "description": "AI-powered workspace with intelligent writing, summarization, and knowledge management.",
+      "company": "Notion",
+      "price": "$10/month",
+      "category": "Productivity",
+      "image": "/placeholder.svg?height=400&width=600"
+    }
+  ],
+  "resources": [
+    {
+      "id": 1,
+      "name": "Hugging Face",
+      "description": "The AI community platform with 500,000+ models, datasets, and spaces. Home of transformers library.",
+      "type": "Platform",
+      "url": "#",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 2,
+      "name": "OpenAI API",
+      "description": "Access GPT-5, DALL-E 3, and Whisper through developer API. Build AI-powered applications.",
+      "type": "API",
+      "url": "#",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 3,
+      "name": "Anthropic Claude API",
+      "description": "Integrate Claude Opus 4.1 into your applications. Enterprise-grade AI with safety focus.",
+      "type": "API",
+      "url": "#",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 4,
+      "name": "TensorFlow",
+      "description": "Open-source machine learning framework by Google. Build and train neural networks at scale.",
+      "type": "Framework",
+      "url": "#",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 5,
+      "name": "PyTorch",
+      "description": "Meta's deep learning framework. Preferred by researchers for flexibility and ease of use.",
+      "type": "Framework",
+      "url": "#",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 6,
+      "name": "LangChain",
+      "description": "Framework for building LLM applications. Chain together AI models and tools.",
+      "type": "Framework",
+      "url": "#",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 7,
+      "name": "Kaggle",
+      "description": "Data science competition platform with datasets, notebooks, and ML community.",
+      "type": "Community",
+      "url": "#",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 8,
+      "name": "Papers With Code",
+      "description": "Free resource linking research papers with code implementations. Track ML progress.",
+      "type": "Research",
+      "url": "#",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 9,
+      "name": "Google Colab",
+      "description": "Free Jupyter notebook environment with GPU access. Perfect for ML experiments.",
+      "type": "Tools",
+      "url": "#",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 10,
+      "name": "Weights & Biases",
+      "description": "ML experiment tracking, dataset versioning, and model management for teams.",
+      "type": "MLOps",
+      "url": "#",
+      "image": "/placeholder.svg?height=300&width=450"
+    }
+  ],
+  "startups": [
+    {
+      "id": 1,
+      "name": "OpenAI",
+      "description": "Leading AI research lab behind GPT-5. Most valuable private company at $500B valuation.",
+      "funding": "$140B total 2025 funding",
+      "founded": "Founded 2015",
+      "category": "Foundation Models",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 2,
+      "name": "Anthropic",
+      "description": "AI safety-focused company behind Claude Opus 4.1. Valued at $183B after Series F.",
+      "funding": "$13B Series F at $183B",
+      "founded": "Founded 2021",
+      "category": "AI Safety",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 3,
+      "name": "xAI",
+      "description": "Elon Musk's AI company developing Grok. Reached $200B valuation in 2025.",
+      "funding": "$10B at $200B valuation",
+      "founded": "Founded 2023",
+      "category": "Foundation Models",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 4,
+      "name": "Figure AI",
+      "description": "Humanoid robotics company backed by Microsoft, NVIDIA, and OpenAI. 39x pricing power.",
+      "funding": "$1B+ raised at $39B",
+      "founded": "Founded 2022",
+      "category": "Humanoid Robotics",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 5,
+      "name": "Cohere",
+      "description": "Enterprise-focused NLP platform providing language AI for businesses worldwide.",
+      "funding": "$445M funding",
+      "founded": "Founded 2019",
+      "category": "Enterprise AI",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 6,
+      "name": "Stability AI",
+      "description": "Creator of Stable Diffusion. Leading open-source AI image generation.",
+      "funding": "$101M funding",
+      "founded": "Founded 2020",
+      "category": "Generative AI",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 7,
+      "name": "ElevenLabs",
+      "description": "AI voice synthesis platform with realistic text-to-speech and voice cloning.",
+      "funding": "$80M funding",
+      "founded": "Founded 2022",
+      "category": "Voice AI",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 8,
+      "name": "Runway",
+      "description": "AI video generation and editing platform. Gen-3 Alpha leads video AI.",
+      "funding": "$237M funding",
+      "founded": "Founded 2018",
+      "category": "Video AI",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 9,
+      "name": "Character.AI",
+      "description": "Platform for creating and interacting with AI characters. 193M funding.",
+      "funding": "$193M funding",
+      "founded": "Founded 2021",
+      "category": "Consumer AI",
+      "image": "/placeholder.svg?height=300&width=450"
+    },
+    {
+      "id": 10,
+      "name": "Perplexity",
+      "description": "AI-powered search engine with real-time information and cited sources.",
+      "funding": "$165M funding",
+      "founded": "Founded 2022",
+      "category": "AI Search",
+      "image": "/placeholder.svg?height=300&width=450"
+    }
+  ],
+  "robotics": [
+    {
+      "id": 1,
+      "title": "Tesla Optimus v3 Unveiled With 22 DOF Hands",
+      "description": "Tesla showcases Optimus v3 with hyper-realistic hands featuring 22 degrees of freedom, targeting 100K monthly production.",
+      "category": "Humanoid",
+      "date": "2025-09-07",
+      "image": "/placeholder.svg?height=450&width=700"
+    },
+    {
+      "id": 2,
+      "title": "Boston Dynamics Electric Atlas Enters Production",
+      "description": "Electric Atlas demonstrates exceptional balance and agility with advanced electric actuators for industrial use.",
+      "category": "Industrial",
+      "date": "2025-08-20",
+      "image": "/placeholder.svg?height=450&width=700"
+    },
+    {
+      "id": 3,
+      "title": "Figure AI Robot Masters Laundry Folding",
+      "description": "Figure AI's humanoid robot successfully demonstrates complex manipulation tasks in domestic environments.",
+      "category": "Humanoid",
+      "date": "2025-08-15",
+      "image": "/placeholder.svg?height=450&width=700"
+    },
+    {
+      "id": 4,
+      "title": "Unitree G1 Achieves Commercial Success",
+      "description": "Unitree Robotics' G1 humanoid robot gains traction in warehouse and logistics applications.",
+      "category": "Commercial",
+      "date": "2025-08-10",
+      "image": "/placeholder.svg?height=450&width=700"
+    },
+    {
+      "id": 5,
+      "title": "Agility Digit Deployed in Amazon Warehouses",
+      "description": "Agility Robotics' Digit humanoid robot begins large-scale deployment in Amazon fulfillment centers.",
+      "category": "Logistics",
+      "date": "2025-08-05",
+      "image": "/placeholder.svg?height=450&width=700"
+    },
+    {
+      "id": 6,
+      "title": "China Hosts First Humanoid Robot Games",
+      "description": "Inaugural Humanoid Robot Games showcases latest advances in bipedal robotics and AI control systems.",
+      "category": "Competition",
+      "date": "2025-08-20",
+      "image": "/placeholder.svg?height=450&width=700"
+    },
+    {
+      "id": 7,
+      "title": "Soft Robotics Breakthrough in Surgery",
+      "description": "New soft robotic systems enable minimally invasive procedures with unprecedented precision and safety.",
+      "category": "Medical",
+      "date": "2025-08-12",
+      "image": "/placeholder.svg?height=450&width=700"
+    },
+    {
+      "id": 8,
+      "title": "Agricultural Robots Transform Farming",
+      "description": "Autonomous robots handle planting, weeding, and harvesting, reducing labor costs by 60%.",
+      "category": "Agriculture",
+      "date": "2025-08-08",
+      "image": "/placeholder.svg?height=450&width=700"
+    },
+    {
+      "id": 9,
+      "title": "Underwater Robots Discover New Species",
+      "description": "AI-powered submersibles explore deep ocean ecosystems and map unexplored territories.",
+      "category": "Marine",
+      "date": "2025-08-03",
+      "image": "/placeholder.svg?height=450&width=700"
+    },
+    {
+      "id": 10,
+      "title": "NASA Tests Mars Construction Robots",
+      "description": "Autonomous robots designed to build habitats on Mars undergo final testing before mission.",
+      "category": "Space",
+      "date": "2025-07-28",
+      "image": "/placeholder.svg?height=450&width=700"
+    }
+  ],
+  "podcasts": [
+    {
+      "id": 1,
+      "name": "Lex Fridman Podcast",
+      "host": "Lex Fridman",
+      "description": "Deep conversations about AI, robotics, and the future with Sam Altman, Elon Musk, and leading researchers.",
+      "category": "Interview",
+      "image": "/placeholder.svg?height=350&width=350"
+    },
+    {
+      "id": 2,
+      "name": "The AI Podcast by NVIDIA",
+      "host": "Noah Kravitz",
+      "description": "Exploring latest developments in AI, deep learning, and GPU-accelerated computing.",
+      "category": "Technology",
+      "image": "/placeholder.svg?height=350&width=350"
+    },
+    {
+      "id": 3,
+      "name": "Machine Learning Street Talk",
+      "host": "Tim Scarfe, Yannic Kilcher",
+      "description": "Deep technical discussions about ML research papers, GPT-5, and AI developments.",
+      "category": "Technical",
+      "image": "/placeholder.svg?height=350&width=350"
+    },
+    {
+      "id": 4,
+      "name": "The Robot Brains Podcast",
+      "host": "Pieter Abbeel",
+      "description": "Conversations with robotics researchers about humanoid robots and intelligent machines.",
+      "category": "Robotics",
+      "image": "/placeholder.svg?height=350&width=350"
+    },
+    {
+      "id": 5,
+      "name": "Eye on AI",
+      "host": "Craig S. Smith",
+      "description": "Exploring people, companies, and ideas shaping AI landscape including OpenAI and Anthropic.",
+      "category": "Business",
+      "image": "/placeholder.svg?height=350&width=350"
+    },
+    {
+      "id": 6,
+      "name": "The AI Alignment Podcast",
+      "host": "Lucas Perry",
+      "description": "Discussing AI safety, ethics, and aligning AI with human values featuring Anthropic researchers.",
+      "category": "Safety",
+      "image": "/placeholder.svg?height=350&width=350"
+    },
+    {
+      "id": 7,
+      "name": "Gradient Dissent",
+      "host": "Weights & Biases",
+      "description": "ML practitioners share stories about building AI systems with GPT-5 and Claude.",
+      "category": "Engineering",
+      "image": "/placeholder.svg?height=350&width=350"
+    },
+    {
+      "id": 8,
+      "name": "The TWIML AI Podcast",
+      "host": "Sam Charrington",
+      "description": "This Week in Machine Learning & AI - interviews covering latest AI breakthroughs.",
+      "category": "News",
+      "image": "/placeholder.svg?height=350&width=350"
+    },
+    {
+      "id": 9,
+      "name": "Talking Machines",
+      "host": "Katherine Gorman",
+      "description": "Human conversations about machine learning, making complex AI topics accessible.",
+      "category": "Education",
+      "image": "/placeholder.svg?height=350&width=350"
+    },
+    {
+      "id": 10,
+      "name": "AI Today Podcast",
+      "host": "Cognilytica",
+      "description": "Practical AI for businesses covering enterprise applications and ChatGPT implementation.",
+      "category": "Enterprise",
+      "image": "/placeholder.svg?height=350&width=350"
+    }
+  ],
+  "community": [
+    {
+      "id": 1,
+      "name": "r/MachineLearning",
+      "platform": "Reddit",
+      "members": "3,200,000+ members",
+      "description": "Reddit's largest ML community discussing GPT-5, Claude, research, and careers.",
+      "category": "Forum"
+    },
+    {
+      "id": 2,
+      "name": "Hugging Face Discord",
+      "platform": "Discord",
+      "members": "60,000+ members",
+      "description": "Active community of ML practitioners sharing models, datasets, and helping each other.",
+      "category": "Chat"
+    },
+    {
+      "id": 3,
+      "name": "OpenAI Developer Forum",
+      "platform": "Forum",
+      "members": "100,000+ members",
+      "description": "Official OpenAI community for GPT-5 API developers and builders.",
+      "category": "Developer"
+    },
+    {
+      "id": 4,
+      "name": "AI Meetups Global",
+      "platform": "Meetup",
+      "members": "180,000+ members",
+      "description": "Local AI meetup groups in 250+ cities hosting talks about latest AI developments.",
+      "category": "Events"
+    },
+    {
+      "id": 5,
+      "name": "Women in AI",
+      "platform": "Community",
+      "members": "35,000+ members",
+      "description": "Global community promoting diversity and inclusion in artificial intelligence.",
+      "category": "Diversity"
+    },
+    {
+      "id": 6,
+      "name": "MLOps Community",
+      "platform": "Slack",
+      "members": "45,000+ members",
+      "description": "Community for ML operations, deployment, and production systems.",
+      "category": "Professional"
+    },
+    {
+      "id": 7,
+      "name": "NeurIPS Conference",
+      "platform": "Conference",
+      "members": "16,000+ attendees",
+      "description": "Premier annual AI research conference with latest papers on GPT-5 and robotics.",
+      "category": "Conference"
+    },
+    {
+      "id": 8,
+      "name": "AI Ethics Forum",
+      "platform": "Forum",
+      "members": "10,000+ members",
+      "description": "Discussing ethical implications of AI development including safety and alignment.",
+      "category": "Ethics"
+    },
+    {
+      "id": 9,
+      "name": "Robotics Discord Server",
+      "platform": "Discord",
+      "members": "25,000+ members",
+      "description": "Community of robotics enthusiasts discussing Tesla Optimus, Figure AI, and projects.",
+      "category": "Robotics"
+    },
+    {
+      "id": 10,
+      "name": "LinkedIn AI Group",
+      "platform": "LinkedIn",
+      "members": "550,000+ members",
+      "description": "Professional network for AI practitioners, researchers, and business leaders.",
+      "category": "Professional"
+    }
+  ],
+  "websites": [
+    {
+      "id": 1,
+      "name": "AI Alignment Forum",
+      "description": "Research forum focused on AI safety, alignment, and ensuring beneficial AI systems.",
+      "category": "Research",
+      "url": "#"
+    },
+    {
+      "id": 2,
+      "name": "The Batch by deeplearning.ai",
+      "description": "Andrew Ng's weekly newsletter on AI trends including GPT-5 and Claude analysis.",
+      "category": "Newsletter",
+      "url": "#"
+    },
+    {
+      "id": 3,
+      "name": "Import AI",
+      "description": "Jack Clark's weekly analysis of AI progress, policy, and research developments.",
+      "category": "Analysis",
+      "url": "#"
+    },
+    {
+      "id": 4,
+      "name": "AI Weekly",
+      "description": "Weekly roundup of important AI news, research papers, and industry developments.",
+      "category": "Newsletter",
+      "url": "#"
+    },
+    {
+      "id": 5,
+      "name": "Papers With Code",
+      "description": "Track ML progress with benchmarks, leaderboards, and code implementations.",
+      "category": "Research",
+      "url": "#"
+    },
+    {
+      "id": 6,
+      "name": "AI Hub",
+      "description": "Comprehensive directory of AI tools including ChatGPT, Claude, and Midjourney.",
+      "category": "Directory",
+      "url": "#"
+    },
+    {
+      "id": 7,
+      "name": "Robot Report",
+      "description": "News covering robotics industry, Tesla Optimus, Boston Dynamics, and automation.",
+      "category": "Robotics",
+      "url": "#"
+    },
+    {
+      "id": 8,
+      "name": "AI Business",
+      "description": "Enterprise AI news covering business applications and industry transformation.",
+      "category": "Business",
+      "url": "#"
+    },
+    {
+      "id": 9,
+      "name": "AI Ethics Lab",
+      "description": "Research and resources on ethical AI development and responsible innovation.",
+      "category": "Ethics",
+      "url": "#"
+    },
+    {
+      "id": 10,
+      "name": "Future of Life Institute",
+      "description": "Organization working to reduce existential risks from advanced AI systems.",
+      "category": "Safety",
+      "url": "#"
+    }
+  ],
+  "partnerships": [
+    {
+      "id": 1,
+      "name": "OpenAI",
+      "description": "Collaborating on GPT-5 research, AI safety initiatives, and educational programs.",
+      "logo": "/placeholder.svg?height=200&width=200"
+    },
+    {
+      "id": 2,
+      "name": "Anthropic",
+      "description": "Joint research programs in AI ethics, alignment, and Claude integration.",
+      "logo": "/placeholder.svg?height=200&width=200"
+    },
+    {
+      "id": 3,
+      "name": "Google DeepMind",
+      "description": "Partnership for Gemini 2.5 Pro research and multimodal AI development.",
+      "logo": "/placeholder.svg?height=200&width=200"
+    },
+    {
+      "id": 4,
+      "name": "NVIDIA",
+      "description": "Technology partnership for AI infrastructure, GPU acceleration, and robotics.",
+      "logo": "/placeholder.svg?height=200&width=200"
+    }
+  ],
+  "vision": {
+    "title": "Our Vision for AI & Robotics",
+    "subtitle": "Shaping the future through innovation, collaboration, and responsible development",
+    "sections": [
+      {
+        "year": "2025-2027",
+        "title": "Foundation & Growth",
+        "predictions": [
+          "GPT-5 and Claude Opus 4.1 become ubiquitous in daily life and work",
+          "Tesla Optimus v3 achieves 100K monthly production milestone",
+          "Humanoid robots enter commercial production at scale",
+          "AI reasoning capabilities reach human-level performance",
+          "Global AI regulation frameworks established"
+        ]
+      },
+      {
+        "year": "2028-2030",
+        "title": "Integration & Transformation",
+        "predictions": [
+          "AI-powered healthcare revolutionizes diagnosis and treatment",
+          "Autonomous vehicles dominate transportation in major cities",
+          "General-purpose robots work alongside humans in factories",
+          "AI tutors provide personalized education globally",
+          "Multimodal AI becomes standard across all applications"
+        ]
+      },
+      {
+        "year": "2031+",
+        "title": "The AI-Augmented Future",
+        "predictions": [
+          "Artificial General Intelligence (AGI) achieves human-level reasoning",
+          "Robots handle most dangerous and repetitive jobs",
+          "AI solves major challenges in climate and medicine",
+          "Human-AI collaboration becomes norm across industries",
+          "New economic models emerge for AI-driven abundance"
+        ]
+      }
+    ]
+  }
+}
